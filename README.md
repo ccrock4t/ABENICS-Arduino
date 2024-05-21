@@ -1,4 +1,6 @@
 # ABENICS-Arduino
+(Please note: I have not tested this code yet.)
+
 Arduino code to drive 3D printed ABENICS active ball joint mechanism. Requires 4 stepper motors.
 
 3D printed ABENICS active ball joint mechanism: https://www.printables.com/en/model/482299-abenics-mechanism
